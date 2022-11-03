@@ -1,2 +1,2 @@
 # Java
-Simple Java Projects
+Simple ATM Java Project
